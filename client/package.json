@@ -131,7 +131,7 @@
     "electron-builder": "^23.0.3",
     "electron-notarize": "^1.2.1",
     "html-webpack-plugin": "^5.5.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "postcss-loader": "^6.2.1",
     "prettier": "^2.2.0",
     "style-loader": "^3.3.1",
